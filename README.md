@@ -13,5 +13,5 @@
 
 ---
 
-![GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=zanuaraldi&theme=react&hide_border=false&border_radius=10&card_width=1000)
+![GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=ahmadbale&theme=react&hide_border=false&border_radius=10&card_width=1000)
 
