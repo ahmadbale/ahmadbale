@@ -6,7 +6,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbale&layout=compact&theme=github_dark&hide_border=false&border_radius=10&card_width=1000)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadbale&show_icons=true&theme=radical&hide_border=false&border_radius=10&card_width=1000&bg_color=30,B76E79,D4A5A5,F5F5DC&title_color=2F1B14&text_color=2F1B14&icon_color=8B4513&border_color=F5F5DC)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmadbale&theme=react)
 
 ### 📊 **My GitHub Stats**
