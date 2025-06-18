@@ -12,5 +12,5 @@
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmadbale&theme=github-dark&hide_border=false&border_radius=10&card_width=1000)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app?user=ahmadbale&theme=github-dark&hide_border=false&border_radius=10&card_width=1000)
 
